@@ -1,4 +1,4 @@
-REPORTE DE PRÁCTICA: INTERFAZ GRÁFICA DE USUARIO (UNIDAD 2)
+REPORTE DE PRÁCTICA (UNIDAD 2)
 1. Introducción
 En esta práctica se trabajó con el lenguaje de programación Python y la biblioteca Flet para el desarrollo de una interfaz gráfica de usuario (GUI). Flet permite crear aplicaciones interactivas mediante un modelo de controles jerárquicos, facilitando la visualización de datos de manera profesional y estructurada.
 2. Objetivo
